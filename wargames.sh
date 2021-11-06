@@ -11,9 +11,9 @@
 #
 # Created by Oliver Molini 2021 (www.protoweb.org, www.steptail.com)
 #
-# Licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0.
+# Licensed under Creative Commons Attribution-ShareAlike 4.0.
 # International Public License
-# https://creativecommons.org/licenses/by-nc-sa/4.0/
+# https://creativecommons.org/licenses/by-sa/4.0/
 #
 ###############################################################################
 
