@@ -1,5 +1,6 @@
 # Wargames WOPR sequence simulator
-A bash script that simulates the login and WOPR game sequences
+
+A bash script that simulates the WOPR login, chat and game sequence of the popular movie Wargames, released in 1983.
 
 To work properly, this script requires a recent version of bash and a VT100 terminal
 
