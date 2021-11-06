@@ -1,4 +1,4 @@
-# Wargames WOPR sequence simulator v1.0
+# Wargames WOPR sequence simulator
 A bash script that simulates the login and WOPR game sequences
 
 To work properly, this script requires a recent version of bash and a VT100 terminal
